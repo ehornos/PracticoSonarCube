@@ -8,7 +8,7 @@ There are multiple options for scaling with Kubernetes and containers in general
 
 ## Prerequisites
 
-- Azure Susbscription to create AKS cluster
+- Azure Susbscription to create AKS cluste
 - kubectl logged into kubernetes cluster
 - Powershell
 - Postman
